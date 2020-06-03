@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Place List Dimens -->
+    <dimen name="place_list_image_width">85dp</dimen>
+    <dimen name="place_list_image_height">85dp</dimen>
+    <dimen name="place_list_image_padding">6dp</dimen>
+    <dimen name="place_list_padding_start_end">6dp</dimen>
+</resources>

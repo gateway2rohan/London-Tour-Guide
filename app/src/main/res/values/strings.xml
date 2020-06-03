@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">London Tour Guide</string>
+
+    <!-- Category String -->
+    <string name="sights">Sights</string>
+    <string name="hotels">Hotels</string>
+    <string name="foods">Foods</string>
+    <string name="parks">Parks</string>
+
+<!--    FoodsFragment -  Names and Addresses -->
+    <string name="fd1">Amrutha Lounge</string>
+    <string name="fda1">326 Garratt Ln, Earlsfield, London SW18 4EJ, United Kingdom</string>
+    <string name="fd2">Andy Greek Taverna</string>
+    <string name="fda2">23 Pratt St, Camden Town, London NW1 0BG, United Kingdom</string>
+    <string name="fd3">Bar Sixty One</string>
+    <string name="fda3">61A Streatham Hill, Streatham, London SW2 4TX, United Kingdom</string>
+    <string name="fd4">Core by Clare Smyth</string>
+    <string name="fda4">92 Kensington Park Rd, Notting Hill, London W11 2PN, United Kingdom</string>
+    <string name="fda5">324a Green Lanes, Finsbury Park, London N4 1BX, United Kingdom</string>
+    <string name="fd5">Dobar</string>
+    <string name="fd6">Mezcalito Chelesa</string>
+    <string name="fda6">119 Sydney St, Chelsea, London SW3 6NR, United Kingdom</string>
+    <string name="fd7">Taste of Nawab</string>
+    <string name="fda7">97 Colney Hatch Ln, London N10 1LR, United Kingdom</string>
+    <string name="fd8">The Ledbury</string>
+    <string name="fda8">127 Ledbury Rd, Notting Hill, London W11 2AQ, United Kingdom</string>
+    <string name="fd9">Udaya Kerala Restaurant</string>
+    <string name="fda9">105 Katherine Rd, East Ham, London E6 1ES, United Kingdom</string>
+    <string name="fd10">Zeret Kitchen</string>
+    <string name="fda10">216-218 Camberwell Rd, Camberwell, London SE5 0ED, United Kingdom</string>
+
+<!--    HotelsFragment - Names and Addresses-->
+    <string name="h1">Hilton London Kensington</string>
+    <string name="ha1">179-199 Holland Park Ave, Holland Park, London W11 4UL, United Kingdom</string>
+    <string name="h2">Britannia International Hotel</string>
+    <string name="ha2">Marsh Wall, Isle of Dogs, London E14 9SJ, United Kingdom</string>
+    <string name="h3">The Tower Hotel</string>
+    <string name="ha3"><![CDATA[St Katharine\'s Way, St Katharine\'s & Wapping, London E1W 1LD, United Kingdom]]></string>
+    <string name="h4">The W14 Kensington Hotel</string>
+    <string name="ha4">16-22 Gunterstone Rd, Hammersmith, London W14 9BX, United Kingdom</string>
+    <string name="h5">Wellesley Hotel</string>
+    <string name="ha5">17 Wellesley Rd, Ilford IG1 4JT, United Kingdom</string>
+    <string name="h6">Clayton Hotel</string>
+    <string name="ha6">10 New Drum St, Whitechapel, London E1 7AT, United Kingdom</string>
+    <string name="h7">Best Western Ilford</string>
+    <string name="ha7">3-5 Argyle Rd, Ilford IG1 3BH, United Kingdom</string>
+    <string name="h8">Qbic Hotels</string>
+    <string name="ha8">42 Adler St, Whitechapel, London E1 1EE, United Kingdom</string>
+    <string name="h9">Airways Hotel</string>
+    <string name="ha9">29-31 St George\'s Dr, Pimlico, London SW1V 4DG, United Kingdom</string>
+    <string name="h10">Eden Plaza Kensington</string>
+    <string name="ha10">68-69 Queen\'s Gate, South Kensington, London SW7 5JT, United Kingdom</string>
+
+<!--    ParksFragment - Names and Addresses-->
+    <string name="p1">Hyde Park</string>
+    <string name="pa1">London, United Kingdom</string>
+    <string name="p2">St James\'s Park</string>
+    <string name="pa2">London SW1A 2BJ, United Kingdom</string>
+    <string name="p3">The Regent\'s Park</string>
+    <string name="pa3">Chester Rd, London NW1 4NR, United Kingdom</string>
+    <string name="p4">Crystal Palace Park</string>
+    <string name="pa4">Thicket Rd, London SE19 2GA, United Kingdom</string>
+    <string name="p5">Greenwich Park</string>
+    <string name="pa5">Greenwich, London SE10 8QY, United Kingdom</string>
+    <string name="p6">Kensington Gardens</string>
+    <string name="pa6">London W2 2UH, United Kingdom</string>
+    <string name="p7">Victoria Park</string>
+    <string name="pa7">Grove Rd, London E3 5TB, United Kingdom</string>
+    <string name="p8">Battersea Park</string>
+    <string name="pa8">Battersea, London SW11 4NJ, United Kingdom</string>
+    <string name="p9">Green Park</string>
+    <string name="pa9">London SW1A 1AA, United Kingdom</string>
+    <string name="p10">Holland Park</string>
+    <string name="pa10">Ilchester Pl, Kensington, London W8 6LU, United Kingdom</string>
+
+<!--    SightsFragment - Names and Addresses-->
+    <string name="s1">Victoria Memorial</string>
+    <string name="sa1">London SW1A 1AA, United Kingdom</string>
+    <string name="s2">Peter Pan Statue</string>
+    <string name="sa2">London W2 2UH, United Kingdom</string>
+    <string name="s3">Statue of Achilles</string>
+    <string name="sa3">Apsley House, 149 Piccadilly, London W1J 7NT, United Kingdom</string>
+    <string name="s4">Guards Crimean War Memorial</string>
+    <string name="sa4">Waterloo Pl, St. James\'s, London SW1Y 5ED, United Kingdom</string>
+    <string name="s5">Royal Artillery Memorial</string>
+    <string name="sa5">London W1J 7JZ, United Kingdom</string>
+    <string name="s6">Buxton Memorial Fountain</string>
+    <string name="sa6">1 Millbank, Westminster, London SW1P 3JU, United Kingdom</string>
+    <string name="s7">Bali Bombings Memorial</string>
+    <string name="sa7">Clive Steps, Westminster, London SW1A 2AE, United Kingdom</string>
+    <string name="s8">Statue of King Richard 1</string>
+    <string name="sa8">2 Great College St, Westminster, London SW1P 3SE, United Kingdom</string>
+    <string name="s9">Sherlock Holmes Statue</string>
+    <string name="sa9">2 Great College St, Westminster, London SW1P 3SE, United Kingdom</string>
+    <string name="s10">Statue of Bobby Moore</string>
+    <string name="sa10">Stadium, 33 Olympic Way, Wembley Park, Wembley HA9 0GF, United Kingdom</string>
+
+
+</resources>
